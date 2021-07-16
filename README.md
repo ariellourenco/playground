@@ -1,4 +1,4 @@
-# Auth03
+# Azure B2C
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
@@ -24,4 +24,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial/tree/main/1-Authentication/2-sign-in-b2c
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-angular-auth-code
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols
